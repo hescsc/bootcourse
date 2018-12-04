@@ -1,4 +1,4 @@
-package com.swisscom.oix.cf01;
+package com.hescsc.springboot.cf01;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
