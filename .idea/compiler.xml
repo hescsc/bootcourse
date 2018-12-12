@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="com.hescsc.springboot.cf01.cf01.main" target="1.8" />
       <module name="com.hescsc.springboot.cf01.cf01.test" target="1.8" />
+      <module name="com.hescsc.springboot.cf02.cf02.main" target="1.8" />
+      <module name="com.hescsc.springboot.cf02.cf02.test" target="1.8" />
       <module name="com.swisscom.oix.boot.cf01.main" target="1.8" />
       <module name="com.swisscom.oix.boot.cf01.test" target="1.8" />
     </bytecodeTargetLevel>

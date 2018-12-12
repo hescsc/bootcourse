@@ -1,0 +1,8 @@
+---
+applications:
+- name: cf01-demo
+  memory: 1G
+  random-route: true
+  domain: scapp.swisscom.com
+  path: build/libs/cf01-0.0.1.jar
+
